@@ -2,22 +2,27 @@
 
 var friendOne = "Hasan",
 
-    frindeTwo = "Soha",
+    friendTwo = "Soha",
 
-    frindeThree = "Ahmad",
+    friendThree = "Ahmad",
 
-    frindeFour = "Zahra",
+    friendFour = "Zahra",
 
-    frindeFive = "Hind";
+    friendFive = "Hind";
 
-var frinds = new Array();
+var friends = new Array();
 
-frinds[0] = "Hassan";
+friends[0] = "Hassan";
 
-frinds[1] = "Soha";
+friends[1] = "Soha";
 
-frinds[2] = "Ahmad";
+friends[2] = "Ahmad";
 
-frinds[3] = "Zahra";
+friends[3] = "Zahra";
 
-frinds[4] = "Hind";
+friends[4] = "Hind";
+
+
+console.log(friends);
+
+
