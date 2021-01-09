@@ -1,5 +1,5 @@
 /* global console, alert, prompt*/
-
+/*
 var friendOne = "Hasan",
 
     friendTwo = "Soha",
@@ -24,5 +24,21 @@ friends[4] = "Hind";
 
 
 console.log(friends);
+*/
 
 
+var friendOne = "Hasan",
+
+    friendTwo = "Soha",
+
+    friendThree = "Ahmad",
+
+    friendFour = "Zahra",
+
+    friendFive = "Hind";
+
+var friends = new Array(Hassan, Soha, Ahmad, Zahra, Hind);
+
+
+
+console.log(friends);
