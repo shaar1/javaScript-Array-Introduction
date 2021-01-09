@@ -26,7 +26,7 @@ friends[4] = "Hind";
 console.log(friends);
 */
 
-
+/*
 var friendOne = "Hasan",
 
     friendTwo = "Soha",
@@ -37,8 +37,28 @@ var friendOne = "Hasan",
 
     friendFive = "Hind";
 
-var friends = new Array(Hassan, Soha, Ahmad, Zahra, Hind);
+var friends = new Array(Hasan, Soha, Ahmad, Zahra, Hind ");
+
+        console.log(friends);
+        */
 
 
+var friendOne = "Hassan",
 
+    friendTwo = "Soha",
+
+    friendThree = "Ahmad",
+
+    friendFour = "Zahra",
+
+    friendFive = "Hind";
+
+var friends = new Array(
+
+    "Hassan",
+    "Soha",
+    "Ahmad",
+    "Zahra",
+    "Hind",
+);
 console.log(friends);
