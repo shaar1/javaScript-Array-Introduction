@@ -64,7 +64,7 @@ var friends = new Array(
 console.log(friends);
 
 */
-
+/*
 var friendOne = "Hassan",
 
     friendTwo = "Soha",
@@ -84,3 +84,39 @@ var friens = []; // Literal Way
     friends[4] = "Hind";
 
 console.log(friend);
+*/
+/*
+var friendOne = "Hassan",
+
+    friendTwo = "Soha",
+
+    friendThree = "Ahmad",
+
+    friendFour = "Zahra",
+
+    friendFive = "Hind";
+
+var friends = ["Hassan", "Soha", "Ahmad", "Zahra", "Hind"];
+
+console.log(friends);
+*/
+
+var friendOne = "Hassan",
+
+    friendTwo = "Soha",
+
+    friendThree = "Ahmad",
+
+    friendFour = "Zahra",
+
+    friendFive = "Hind";
+
+var friends = [
+    "Hassan",
+    "Soha",
+    "Ahmad",
+    "Zahra",
+    "Hind"
+];
+
+console.log(friends);
